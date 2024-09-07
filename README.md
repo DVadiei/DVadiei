@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DVadiei
-- 👀 I’m interested in python language
+- 👀 I’m interested in data analysis and python language
 
 
 
